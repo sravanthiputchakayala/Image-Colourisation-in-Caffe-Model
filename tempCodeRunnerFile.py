@@ -1,0 +1,1 @@
+net.setInput(cv2.dnn.blobFromImage(L))
