@@ -21,7 +21,7 @@ git clone " https://github.com/sravanthiputchakayala/Image-Colourisation-in-Caff
 # Install Dependencies:
 pip install opencv-python numpy
 
-Note: Ensure you have Caffe installed and configured correctly. 
+Note: Ensure you have Caffe installed and configured correctly. Also download the "colorization_release_v2.caffemodel" file from the drive link provided.AS the file size is large i have uploaded the drive link.
 
 # Usage:
 
