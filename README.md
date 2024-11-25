@@ -1,4 +1,4 @@
-# image_colorisation
+
 
 Image Colorization with Caffe
 
