@@ -7,15 +7,15 @@ This project demonstrates image colorization using a pre-trained Caffe model. Th
 
 Prerequisites
 
-Python 3.x
-OpenCV
-NumPy
-Caffe
+Python 3.x ,
+OpenCV, 
+NumPy, 
+Caffe.
 
 Installation
 
 Clone the Repository:
-git clone " https://github.com/sravanthiputchakayala/Image-Colourisation-in-Caffe-Mode.git "
+git clone " https://github.com/sravanthiputchakayala/Image-Colourisation-in-Caffe-Model.git "
 Use code with caution.
 
 Install Dependencies:
