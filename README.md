@@ -2,11 +2,11 @@
 
 Image Colorization with Caffe
 
-Project Overview:
+# Project Overview:
 
   This project demonstrates image colorization using a pre-trained Caffe model. The model takes a grayscale image as input and outputs a colorized version of the image.
 
-Prerequisites :
+# Prerequisites :
 
 Python 3.x ,
 OpenCV, 
@@ -14,21 +14,21 @@ NumPy,
 Caffe.
 
 
-Clone the Repository:
+# Clone the Repository:
 git clone " https://github.com/sravanthiputchakayala/Image-Colourisation-in-Caffe-Model.git "
 
 
-Install Dependencies:
+# Install Dependencies:
 pip install opencv-python numpy
 
 Note: Ensure you have Caffe installed and configured correctly. 
 
-Usage:
+# Usage:
 
 Prepare your grayscale image: Ensure it's in a standard image format (e.g., JPG, PNG).
 View the colorized image: The colorized image will be displayed in a window.
 
-How it Works:
+# How it Works:
 
 Loading the Model: The Caffe model is loaded from the provided prototxt and caffemodel files.
 
